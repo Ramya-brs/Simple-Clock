@@ -3,4 +3,4 @@
 ###### Purpose:
     Display the current time using JS
 
-#### Dear Students, Check out the live app [here](https://ramya-brs.github.io/Simple-Clock/).
+#### Hello, Check out the live app [here](https://ramya-brs.github.io/Simple-Clock/).
