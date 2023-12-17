@@ -12,6 +12,7 @@
   background-color: var(--primary-color);
   margin: 100px auto 0px auto;
   position: relative;
+  background-image: url(../img/Stars.png);
   border: 20px solid rgba(229, 238, 229, 0.6);
 }
 .center {
